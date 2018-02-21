@@ -29,7 +29,7 @@ define('DB_USER', 'wordpress');
 define('DB_PASSWORD', 'Test1234!');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', ':/cloudsql/jenwp-195908:australia-southeast1:jencldsql');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
